@@ -32,11 +32,6 @@
 *.app
 
 # Visual Studio
-*.sln
-*.vcproj
-*/x64
 */bin
-*/vs
-*/.vs
 *vs
 *x64
